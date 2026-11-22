@@ -59,8 +59,8 @@ Sigue estos pasos para ejecutar el proyecto de forma local:
 
 
 Autor:
-Tomás Alfonso Pacheco Costa
-Jessiel Alvares Hurtado
+Tomás Alfonso Pacheco Costa,
+Jessiel Alvares Hurtado,
 Andres Velez Mora
 
 Estudiantes de Ingeniería de Sistemas - UNAD.
