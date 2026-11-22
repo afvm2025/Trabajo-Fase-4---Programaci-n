@@ -63,7 +63,7 @@ Tomás Alfonso Pacheco Costa
 Jessiel Alvares Hurtado
 Andres Velez Mora
 
-Estudiante de Ingeniería de Sistemas - UNAD.
+Estudiantes de Ingeniería de Sistemas - UNAD.
 Grupo - 96
 
 
